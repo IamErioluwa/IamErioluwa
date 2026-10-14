@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source data projects, exploratory data analysis, and interactive dashboard design.
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-olowodu/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I balance my time between writing SQL queries and reading
+- ⚡ Fun fact: I balance my time between writing SQL queries, Learning and reading (gaining knowledge). 
 
 ---
 
