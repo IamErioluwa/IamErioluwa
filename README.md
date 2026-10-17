@@ -1,21 +1,14 @@
-- 👋 Hi, I’m Emmanuel Erioluwa Olowodu (@IamErioluwa)
-- 👀 I’m interested in data analytics, translating messy datasets into actionable business insights, and building robust database architectures.
-- 🌱 I’m currently learning advanced Python for data analysis, Power BI, and mastering Excel tools like Power Query.
-- 💞️ I’m looking to collaborate on open-source data projects, exploratory data analysis, and interactive dashboard design.
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-olowodu/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I balance my time between writing SQL queries, Learning and reading (gaining knowledge). 
+## Emmanuel Erioluwa Olowodu
 
----
+I work in data analytics, with a computer science background. I like finding what's wrong with a messy dataset and fixing it before I build anything on top of it.
 
-### 📊 Featured Project
-**[Excelerate: Opportunity & Learner Performance Analysis](https://github.com/IamErioluwa/excelerate-data-analytics)**  
-An end-to-end data analytics pipeline analysing programme performance. I engineered clean dataset copies in **PostgreSQL (Supabase)**, resolved data integration constraints by building category-level SQL summary views, and visualised the findings through a validated **Looker Studio** dashboard.
+My first full public project is [Excelerate: Opportunity & Learner Performance Analysis](https://github.com/IamErioluwa/excelerate-learner-opportunity-analysis). I took two messy programme datasets, cleaned them in PostgreSQL, built a Looker Studio dashboard and wrote up what the data could and couldn't tell me.
 
-### 🛠️ Technical Arsenal
-**Languages & Databases:** SQL, PostgreSQL, Python, HTML/CSS  
-**BI & Visualisation:** Looker Studio, Power BI, Microsoft Excel (Pivot Tables, Power Query)  
-**Other Tools:** Git, GitHub, Supabase
+Used in projects: SQL, PostgreSQL, Supabase, Looker Studio, Excel, Google Sheets
+
+Learning now: Python
+
+[LinkedIn](https://www.linkedin.com/in/emmanuel-olowodu/)
 
 <!---
 
